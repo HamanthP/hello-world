@@ -24,7 +24,7 @@
 			}
 		}],
 		"results": [{
-			"level": "3 - Medium",
+			"level": "error",
 			"message": {
 				"text": "Github Qwiet Scan Details\nFinding ID: 22\nSoftware ID: 6cab7283ad3f8de18a5a737728a910c1b242d314\nSoftware Name: myid-groups-notification\nApplication ID: 0a98dc5cdb733c909d3ba08b8a961962\nApplication Name: 0a98dc5cdb733c909d3ba08b8a961962\n\nLanguage: secrets\nLine number: 16"
 			},
@@ -41,7 +41,7 @@
 				}
 			}],
 			"ruleId": "myid-groups-notification",
-			"ruleIndex": 0
+			"ruleIndex": 1
 		}]
 	}]
 }
